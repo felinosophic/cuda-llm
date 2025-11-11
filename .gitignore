@@ -4,3 +4,25 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio 2022 (Solution, project, and user files)
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Build artifacts (MOST IMPORTANT)
+Debug/
+Release/
+x64/
+Win32/
+*.exe
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
